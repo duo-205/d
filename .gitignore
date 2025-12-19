@@ -1,0 +1,7 @@
+./dataset/*
+./venv/*
+venv/*
+dataset/*
+venv
+dataset
+test1.mp4
